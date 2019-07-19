@@ -9,4 +9,4 @@ phases:
       - lerna bootstrap
   post_build:
     commands:
-      - npm -C ./packages/usage run start
+      - npm -C ./packages/connector run start

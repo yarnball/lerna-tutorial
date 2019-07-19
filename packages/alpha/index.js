@@ -1,1 +1,2 @@
-module.exports = 'alpha'
+// module.exports = 'alpha'
+export default 'alpha'
